@@ -1,4 +1,5 @@
-# Applied-Operations-ResearchCoursework for COMP 6925: Applied Operations Research at The University of the West Indies, St. Augustine.
+# Applied-Operations-Research  
+Coursework for **COMP 6925: Applied Operations Research** at The University of the West Indies, St. Augustine.
 
 ## Author: Kevan Rajaram
 
